@@ -1,0 +1,2 @@
+https://saturncloud.io/blog/calculating-distance-between-two-points-latitudelongitude-in-a-spark-dataframe-using-pyspark/
+
